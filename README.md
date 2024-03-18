@@ -1,5 +1,11 @@
-Hey! I'm Rohan Rathore!!  ❤❤❤
+Hey there! I'm Rohan Rathore! ❤️❤️❤️
 
-I skilled in Python.  👍
+I'm proficient in Python. 👍
 
-I HAVE UPLOADED FOR U :--  BASIC PYTHON: ADVANCE PYTHON : OBJECT ORIENTED PROGRAMING IN PYTHON:  🤷‍♀️🤷‍♀️
+I've uploaded the following materials for you:
+
+- Basic Python
+- Advanced Python
+- Object-Oriented Programming in Python 🤷‍♀️🤷‍♀️
+  
+Feel free to explore them!
